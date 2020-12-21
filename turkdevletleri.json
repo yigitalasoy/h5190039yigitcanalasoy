@@ -1,0 +1,87 @@
+{
+	"TurkDevletleri": [{
+			"DevletAdi": "Türkiye Cumhuriyeti",
+			"Kuruluş": "1923",
+			"BayrakURL": "",
+			"Kurucusu": "Mustafa Kemal ATATÜRK",
+			"BulunduguYerURL": "",
+			"ResmiDil": "Türkçe",
+			"ParaBirimi": "Türk Lirası",
+			"Baskent": "Ankara",
+			"Nufus": "83.154.997"
+
+		},
+		{
+			"DevletAdi": "Kuzey Kıbrıs Türk Cumhuriyeti",
+			"Kuruluş": "1983",
+			"BayrakURL": "",
+			"Kurucusu": "Rauf Raif Denktaş",
+			"BulunduguYerURL": "",
+			"ResmiDil": "Türkçe",
+			"ParaBirimi": "Türk Lirası",
+			"Baskent": "Lefkoşa",
+			"Nufus": "374.299"
+		},
+		{
+			"DevletAdi": "Azerbaycan",
+			"Kuruluş": "1991",
+			"BayrakURL": "",
+			"Kurucusu": "Mehmet Emin Resulzade",
+			"BulunduguYerURL": "",
+			"ResmiDil": "Azerbaycan Türkçesi",
+			"ParaBirimi": "Manat",
+			"Baskent": "Bakü",
+			"Nufus": "10.027.874"
+		},
+		{
+			"DevletAdi": "Kazakistan",
+			"Kuruluş": "1991",
+			"BayrakURL": "",
+			"Kurucusu": "Nursultan Nazarbayev",
+			"BulunduguYerURL": "",
+			"ResmiDil": "Kazakistan Türkçesi",
+			"ParaBirimi": "Tenge",
+			"Baskent": "Nur-Sultan",
+			"Nufus": "18.711.200"
+		},
+		{
+			"DevletAdi": "Kırgızistan",
+			"Kuruluş": "1991",
+			"BayrakURL": "",
+			"Kurucusu": "Askar Akayev",
+			"BulunduguYerURL": "",
+			"ResmiDil": "Kırgızca",
+			"ParaBirimi": "Som",
+			"Baskent": "Bişkek",
+			"Nufus": "5.482.000"
+		},
+		{
+			"DevletAdi": "Özbekistan",
+			"Kuruluş": "1991",
+			"BayrakURL": "",
+			"Kurucusu": "Muhammed Şeybani Han",
+			"BulunduguYerURL": "",
+			"ResmiDil": "Özbekçe",
+			"ParaBirimi": "Som",
+			"Baskent": "Taşkent",
+			"Nufus": "33,254,100"
+		},
+		{
+			"DevletAdi": "Türkmenistan",
+			"Kuruluş": "1991",
+			"BayrakURL": "",
+			"Kurucusu": "Saparmurat Türkmenbaşı Niyazov",
+			"BulunduguYerURL": "",
+			"ResmiDil": "Türkmence",
+			"ParaBirimi": "Türkmenistan manatı",
+			"Baskent": "Aşkabat",
+			"Nufus": "5.850.901"
+		}
+
+
+
+	]
+
+
+
+}
