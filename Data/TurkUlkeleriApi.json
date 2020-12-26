@@ -1,0 +1,82 @@
+[{
+		"UlkeAdi": "Türkiye Cumhuriyeti",
+		"Kurulus": "1923",
+		"BayrakUrl": "https://raw.githubusercontent.com/yigitalasoy/h5190039yigitcanalasoy/main/UlkeBayraklari/turkiyebayragi.png",
+		"Kurucusu": "Mustafa Kemal ATATÜRK",
+		"BulunduguYerUrl": "https://raw.githubusercontent.com/yigitalasoy/h5190039yigitcanalasoy/main/UlkeKonumlari/turkiyekonumu.png",
+		"ResmiDil": "Türkçe",
+		"ParaBirimi": "Türk Lirası",
+		"Baskent": "Ankara",
+		"Nufus": "83.154.997"
+
+	},
+	{
+		"UlkeAdi": "Kuzey Kıbrıs Türk Cumhuriyeti",
+		"Kurulus": "1983",
+		"BayrakUrl": "https://raw.githubusercontent.com/yigitalasoy/h5190039yigitcanalasoy/main/UlkeBayraklari/kuzeykibrisbayragi.png",
+		"Kurucusu": "Rauf Raif Denktas",
+		"BulunduguYerUrl": "https://raw.githubusercontent.com/yigitalasoy/h5190039yigitcanalasoy/main/UlkeKonumlari/kuzeykibriskonumu.png",
+		"ResmiDil": "Türkçe",
+		"ParaBirimi": "Türk Lirası",
+		"Baskent": "Lefkosa",
+		"Nufus": "374.299"
+	},
+	{
+		"UlkeAdi": "Azerbaycan",
+		"Kurulus": "1991",
+		"BayrakUrl": "https://raw.githubusercontent.com/yigitalasoy/h5190039yigitcanalasoy/main/UlkeBayraklari/azerbaycanbayragi.png",
+		"Kurucusu": "Mehmet Emin Resulzade",
+		"BulunduguYerUrl": "https://raw.githubusercontent.com/yigitalasoy/h5190039yigitcanalasoy/main/UlkeKonumlari/azerbaycankonumu.png",
+		"ResmiDil": "Azerbaycan Türkçesi",
+		"ParaBirimi": "Manat",
+		"Baskent": "Bakü",
+		"Nufus": "10.027.874"
+	},
+	{
+		"UlkeAdi": "Kazakistan",
+		"Kurulus": "1991",
+		"BayrakUrl": "https://raw.githubusercontent.com/yigitalasoy/h5190039yigitcanalasoy/main/UlkeBayraklari/kazakistanbayragi.png",
+		"Kurucusu": "Nursultan Nazarbayev",
+		"BulunduguYerUrl": "https://raw.githubusercontent.com/yigitalasoy/h5190039yigitcanalasoy/main/UlkeKonumlari/kazakistankonumu.png",
+		"ResmiDil": "Kazakistan Türkçesi",
+		"ParaBirimi": "Tenge",
+		"Baskent": "Nur-Sultan",
+		"Nufus": "18.711.200"
+	},
+	{
+		"UlkeAdi": "Kırgızistan",
+		"Kurulus": "1991",
+		"BayrakUrl": "https://raw.githubusercontent.com/yigitalasoy/h5190039yigitcanalasoy/main/UlkeBayraklari/kirgizistanbayragi.png",
+		"Kurucusu": "Askar Akayev",
+		"BulunduguYerUrl": "https://raw.githubusercontent.com/yigitalasoy/h5190039yigitcanalasoy/main/UlkeKonumlari/kirgizistankonumu.png",
+		"ResmiDil": "Kırgızca",
+		"ParaBirimi": "Som",
+		"Baskent": "Biskek",
+		"Nufus": "5.482.000"
+	},
+	{
+		"UlkeAdi": "Özbekistan",
+		"Kurulus": "1991",
+		"BayrakUrl": "https://raw.githubusercontent.com/yigitalasoy/h5190039yigitcanalasoy/main/UlkeBayraklari/ozbekistanbayragi.png",
+		"Kurucusu": "Muhammed seybani Han",
+		"BulunduguYerUrl": "https://raw.githubusercontent.com/yigitalasoy/h5190039yigitcanalasoy/main/UlkeKonumlari/ozbekistankonumu.png",
+		"ResmiDil": "Özbekçe",
+		"ParaBirimi": "Som",
+		"Baskent": "Taskent",
+		"Nufus": "33,254,100"
+	},
+	{
+		"UlkeAdi": "Türkmenistan",
+		"Kurulus": "1991",
+		"BayrakUrl": "https://raw.githubusercontent.com/yigitalasoy/h5190039yigitcanalasoy/main/UlkeBayraklari/turkmenistanbayragi.png",
+		"Kurucusu": "Saparmurat Türkmenbası Niyazov",
+		"BulunduguYerUrl": "https://raw.githubusercontent.com/yigitalasoy/h5190039yigitcanalasoy/main/UlkeKonumlari/turkmenistankonumu.png",
+		"ResmiDil": "Türkmence",
+		"ParaBirimi": "Türkmenistan manatı",
+		"Baskent": "Askabat",
+		"Nufus": "5.850.901"
+	}
+
+
+
+]
